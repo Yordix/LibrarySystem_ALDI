@@ -1,0 +1,21 @@
+# Ignore build outputs
+/bin/
+/obj/
+/**/bin/
+/**/obj/
+
+# Visual Studio workspace and user-specific files
+.vs/
+*.user
+*.suo
+
+# IDE settings
+.vscode/
+.idea/
+
+# Publish output
+/publish/
+
+# Rider
+*.DotSettings.user
+
